@@ -1,0 +1,22 @@
+Short C++ tutorial 
+Cout is used to print meassage on console.
+Cin is used to take input from user.
+Variables: int value1, value2;            THese are two variables which are declared 
+value1= 23
+value2= 67                                Assigning values to declared variable
+
++, - ,* , /                               operators
+
+short, int, long, long long               Data types for integers
+float, double, long double                Float data types. Their precision is in increasing order
+const                                     It is a function to constant the value of a variable such as float const PI= 3.14;
+
+Names of variables:			  name of a variable can not start with a number it can start with undescore (_) but 9_gi= "It can not be the name of variable"
+ 					  we can put number between name of variable like _pa53= "It can be name of variable"
+					  instead of writing myname it should my write myName or MyName so name of variable is clearly stated.
+					  
+/					  when we divide between two same data type let say integer numbers using this(/) operator then it will give result of data type of integers to be divided
+
+					  To get accurate results we have to do typecasting and change one's form integer to float.
+
+endl					  To end the line
